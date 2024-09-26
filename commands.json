@@ -5,6 +5,9 @@
     "flag C6",
     "clear D6",
     "clear C5",
-    "clear F5"
+    "clear F5",
+    "clear D5",
+    "flag E6",
+    "flag E8"
   ]
 }
