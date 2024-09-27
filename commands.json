@@ -1,6 +1,16 @@
 {
   "commands": [
     "flag G6",
+    "flag D1",
+    "flag E2",
+    "flag F2",
+    "flag F3",
+    "flag A4",
+    "flag C5",
+    "flag C8",
+    "clear G4",
+    "clear C7",
+    "clear G3",
     "clear A8",
     "clear D4",
     "clear E4",
