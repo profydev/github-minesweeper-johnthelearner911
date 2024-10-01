@@ -26,6 +26,10 @@
     "clear g6",
     "clear h6",
     "clear f6",
-    "flag e6"
+    "flag e6",
+    "clear a6",
+    "clear b6",
+    "flag c6",
+    "clear d6"
   ]
 }
