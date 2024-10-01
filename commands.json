@@ -1,9 +1,9 @@
 {
   "commands": [
     "clear a8",
-    "f;ag b4",
+    "flag b4",
     "flag d4",
-    "flah h5",
+    "flag h5",
     "clear h4"
   ]
 }
