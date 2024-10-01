@@ -24,6 +24,8 @@
     "flag a4",
     "clear a5",
     "clear g6",
-    "clear h6"
+    "clear h6",
+    "clear f6",
+    "flag e6"
   ]
 }
