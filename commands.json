@@ -20,6 +20,10 @@
     "clear f5",
     "clear g5",
     "clear h5",
-    "flag e5"
+    "flag e5",
+    "flag a4",
+    "clear a5",
+    "clear g6",
+    "clear h6"
   ]
 }
