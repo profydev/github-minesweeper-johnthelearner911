@@ -31,6 +31,9 @@
     "clear d1",
     "clear d2",
     "flag d4",
-    "clear d5"
+    "clear d5",
+    "flag b5",
+    "flag d7",
+    "end"
   ]
 }
